@@ -1,0 +1,14 @@
+Git Bash local files to GitHhub:
+
+Add new files to Github
+
+1) git add <file name> 
+2) git status
+3) git commit -m "first commit" <file.name>
+4) git push -u origin main or master 
+
+Transfer modified file to Github
+
+1) git status
+2) git commit -m "second commit" <file.name>
+3) git push -u origin main/master
